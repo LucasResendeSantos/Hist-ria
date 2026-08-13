@@ -7,4 +7,7 @@
 }
 body{
     background-color: var(--cor-fundo);
+    color: var(--cor-texto);
+    align-items: center;
+    justify-content: center;
 }
