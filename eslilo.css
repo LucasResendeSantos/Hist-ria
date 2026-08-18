@@ -25,5 +25,8 @@ buton{
     color: var(--cor-texto);
     padding: 15px;
     transition: backround-color 0.3s;
-
+}
+button:hover{
+    background-color: var(--cor-destaque)
+    color: var(--cor-principal)
 }
