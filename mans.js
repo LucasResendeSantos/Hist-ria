@@ -1,3 +1,9 @@
+const caixaPrincipal = document.querySelector(".caixa principal")
+const caixaPerguntas = document.querySelector(".caixa perguntas")
+const caixaAlternativas = document.querySelector(".caixa alternativas")
+const caixaResultado = document.querySelector(".caixa resultado")
+const textoResultado = document.querySelector(".texto-resultado")
+
 const perguntas = [
     {
         enunciado: "Assim que saiu da escola, Hello Kitty encontrou um pequeno gatinho perdido perto do caminho de casa. Ele parecia assustado e não sabia para onde ir. Qual é o primeiro pensamento?",
@@ -65,3 +71,10 @@ const perguntas = [
         ]
     },
 ];
+let atual = 0;
+let perguntAtual;
+let historiaFinal = ""
+
+function mostraPergunta(){
+    
+}
