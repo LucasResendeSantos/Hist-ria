@@ -13,3 +13,17 @@ body{
     justify-content: center;
     min-height: 100vh;
 }
+.caixa-principal{
+    background-color: var(--cor-principal);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+    padding: 20px;
+}
+buton{
+    background-color: var(--cor-secundaria);
+    color: var(--cor-texto);
+    padding: 15px;
+    transition: backround-color 0.3s;
+
+}
