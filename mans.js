@@ -86,9 +86,7 @@ function mostraPergunta(){
     mostraAlternativas()
 
 
-function mostraPergunta(){
 }
-
 fuction mostraAlternativas(){
     for(const alternativa of perguntaAtual.alternativa)
         const botaoAlternativas = document.creatElement("button")
