@@ -96,7 +96,7 @@ function mostraAlternativas(){
     }
 }
 function respostaSelecionada(opcaoSelecionada){
-    const afirmacoes += afirmacoes + " "
+    const afirmacoes += opcaoSelecionada.afirmacoes + " "
     atual++
     mostraPergunta()
 }
