@@ -98,7 +98,14 @@ fuction mostraAlternativas(){
     }
 }
 function respostaSelecionada(opcaoSelecionada){
-    
+    constant afirmacoes += afirmacoes + " "
+    atual++
+    mostraPergunta()
+}
+function mostraResultado(){
+    caixaPerguntas.textContent ="A partir de sua ajuda ..."
+    textoResultad.textContent = historiaFinal
+    caixaAlternativas.textContent ="";
 }
 
 
