@@ -80,7 +80,7 @@ function mostraPergunta(){
         mostraResultado()
         return
     }
-    perguntaAtual= perguntas[atual]
+    perguntaAtual = perguntas[atual]
     caixaPerguntas.textContent =perguntaAtual.enunciado
     caixaAlternativas.textContent = "";
     mostraAlternativas()
@@ -103,7 +103,7 @@ function respostaSelecionada(opcaoSelecionada){
 }
 function mostraResultado(){
     caixaPerguntas.textContent ="A partir de sua ajuda ..."
-    textoResultad.textContent = historiaFinal
+    textoResultado.textContent = historiaFinal
     caixaAlternativas.textContent ="";
 }
 
