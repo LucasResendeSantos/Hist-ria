@@ -23,6 +23,8 @@ body{
 buton{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
+    border: none;
+    border-radius: 15px;
     padding: 15px;
     transition: backround-color 0.3s;
 }
