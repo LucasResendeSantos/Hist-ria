@@ -31,7 +31,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Prepara alguns biscoitinhos em formato de coração.",
-                afirmacao: ["Foi para a cozinha e preparou deliciosos biscoitinhos em formato de coração para deixar o novo amiguinho feliz."
+                afirmacao: ["Foi para a cozinha e preparou deliciosos biscoitinhos em formato de coração para deixar o novo amiguinho feliz.",
                     "Todos os biscoitinhos estavam quentinhos e deliciosos, e fez o caração do gatinho ficar quentinho"
                     "Afirmacao 2"
                 ]
