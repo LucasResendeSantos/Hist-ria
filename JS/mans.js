@@ -146,8 +146,9 @@ function mostraResultado(){
 }
 
 function aleatorio(lista){
-    cont podicso = Math.random()*lista.length
+    cont podicso = Math.floor(Math.random()*lista.length)
     console.log(posicao)
+    return(lista[posicao])
 }
 
 
