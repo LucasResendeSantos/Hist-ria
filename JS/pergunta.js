@@ -6,7 +6,7 @@
                 texto: "Vou ajudar o gatinho a encontrar sua família!",
                 afirmacao:["Com muito carinho, decidiu ajudar o gatinho e ficou determinada a encontrar sua família.", 
                     "No inicio hello kitty ficou muito preocupada, mas se acalmou e tentou manter o gatinho tranquilo"
-                    "Afirmacao 2"
+          
                 ]
     
 
@@ -15,7 +15,7 @@
                 texto: "Talvez alguém já esteja procurando por ele.",
                 afirmacao: ["Pensou com cuidado em uma forma segura de ajudar o gatinho sem deixá-lo ainda mais assustado.",
                     "Ela pensou com cuidado e com carinho para ajudar o gatinho"
-                    "Afirmacao 2"
+          
                 ]
             }
         ]
@@ -27,7 +27,7 @@
                 texto: "Prepara alguns biscoitinhos em formato de coração.",
                 afirmacao: ["Foi para a cozinha e preparou deliciosos biscoitinhos em formato de coração para deixar o novo amiguinho feliz.",
                     "Todos os biscoitinhos estavam quentinhos e deliciosos, e fez o caração do gatinho ficar quentinho"
-                    "Afirmacao 2"
+          
                 ]
             
             },
@@ -35,7 +35,7 @@
                 texto: "Faz um desenho colorido para ele.",
                 afirmacao: ["Pegou seus lápis de cor e criou um desenho cheio de flores, corações e estrelinhas.",
                     "Hello Kitty deu um papel e varios lapis de cor para o gatinho de destrair enquanto ela pensava em como ajudar o gatinho"
-                    "Afirmacao 2"
+          
                 ]
             }
         ]
@@ -47,14 +47,14 @@
                 texto: "Uma cesta cheia de frutas e docinhos.",
                 afirmacao:[ "Preparou uma linda cesta com frutas, docinhos e vários quitutes para compartilhar com todos.",
                     "Seus amigos iriam gostar muito das frutas e dos docinhos"
-                    "Afirmacao 2"
+          
                 ]
             },
             {
                 texto: "Uma toalha fofinha e jogos para brincar.",
                 afirmacao: ["Levou uma toalha bem confortável e vários jogos divertidos para que todos pudessem brincar juntos.",
                     "Seria uma boa opção, para todos se divertirem"
-                    "afirmacao 2"
+          
                 ]
 
 
@@ -69,14 +69,14 @@
                 texto: "Contar histórias engraçadas para os amigos.",
                 afirmacao: ["Começou a contar histórias engraçadas e logo todos estavam rindo juntos, esquecendo completamente da chuva.",
                     "Seus amgigos estavam com muitos medo do barulho dos trovões, e como ela é uma ótima amiga decidiu animar os seus amigos"
-                    "afirmacao 2"
+          
                 ]
             },
             {
                 texto: "Cantar uma música bem alegre.",
                 afirmacao: ["Começou a cantar uma música alegre e seus amigos entraram na brincadeira, transformando a chuva em uma festa.",
                     "Ira animar seus amigos e fazer eles esquecerem da chuva"
-                    "afirmacao 2"
+          
                 ]
             }
         ]
@@ -88,14 +88,14 @@
                 texto: "Diz que não precisa agradecer e dá um abraço nele.",
                 afirmacao: ["Aprendeu que pequenos gestos de carinho podem fazer uma grande diferença e que ajudar um amigo é uma coisa muito especial.",
                     "Ela tirou um aprendizado com o lindo gesto que ela tomou com o gatinho"
-                    "afirmacao 2"
+          
                 ]
             },
             {
                 texto: "Sugere que ele faça uma surpresa para os outros amigos também.",
                 afirmacao: ["Percebeu que a gentileza pode virar uma corrente de carinho quando cada pessoa compartilha um pouquinho de amor com os outros.",
                     "Ela aprendeu que gentileza pode virar uma corrente de carinho quando cada pessoa compartilha o seu amor"
-                    "afirmacao 2"
+          
                 ]
 
             
