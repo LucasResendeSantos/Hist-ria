@@ -20,7 +20,7 @@ body{
     text-align: center;
     padding: 20px;
 }
-buton{
+button{
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     border: none;
